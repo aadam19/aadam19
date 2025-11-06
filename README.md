@@ -5,7 +5,7 @@
 
 🌱 I'm currently working on [Tracko](https://tracko.ch)
 
-⚡ I've contributed to [Amazon CloudWatch Agent](https://github.com/amazon-contributing/opentelemetry-collector-contrib)
+⚡ I've contributed to [Amazon CloudWatch Agent](https://github.com/aws/amazon-cloudwatch-agent/releases/tag/v1.300060.0)
 
 <img height="300px" width="320px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZzdWxnNGx2eW9xZ2Z3czV3dWF3czFoemF4b3JiZzA4Zjl0a2EweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" />
 
